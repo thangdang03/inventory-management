@@ -1,0 +1,12 @@
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\bin\Debug\quanlyHangHoaBanhang.exe.config
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\bin\Debug\quanlyHangHoaBanhang.exe
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\bin\Debug\quanlyHangHoaBanhang.pdb
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.csproj.AssemblyReference.cache
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.Form1.resources
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.Properties.Resources.resources
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.csproj.GenerateResource.cache
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.csproj.CoreCompileInputs.cache
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.exe
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.pdb
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.FormPhieuThu.resources
+D:\project_c#\quanlyHangHoaBanhang\quanlyHangHoaBanhang\obj\Debug\quanlyHangHoaBanhang.FormMDI.resources
